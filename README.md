@@ -2,9 +2,9 @@
 
 ## Liam Mazure
 
-*I enjoy doing triathlons and am currently training for the Detroit Marathon.
-*I would love to learn how to work with a rasberry pi.
-*I enjoy reading and practice the habbit every night before bed.
+* I enjoy doing triathlons and am currently training for the Detroit Marathon.
+* I would love to learn how to work with a rasberry pi.
+* I enjoy reading and practice the habbit every night before bed.
 
 ### Technical Background
 
